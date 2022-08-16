@@ -1,0 +1,49 @@
+﻿@model IEnumerable<StackOverflow.Models.Answer>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Body)
+            </th>
+            <th>
+                Topic
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Body)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Question.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Index" asp-controller="Comments" asp-route-id="@item.Id">Comments</a> |
+                <a asp-action="Create" asp-controller="Comments" asp-route-id="@item.Id">Comment On Answer</a> |
+                <a asp-action="Create" asp-controller="Votes" asp-route-id="@item.Id">Vote</a> |
+                <a asp-action="MarkCorrect" asp-controller="Answers" asp-route-id="@item.Id">Mark Correct</a> |
+           
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,132 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SlackOverFlow
+build_property.RootNamespace = SlackOverFlow
+build_property.ProjectDir = /Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Answers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Answers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Answers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Answers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Answers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Questions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb25zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Questions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb25zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Questions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb25zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Questions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb25zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Questions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Votes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVm90ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Votes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVm90ZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Votes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVm90ZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Votes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVm90ZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Votes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVm90ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/StackOverflow/StackOverflow/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n0dwk48ore
